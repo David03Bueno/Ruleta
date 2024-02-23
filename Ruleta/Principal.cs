@@ -23,16 +23,16 @@ for (int i = 0; i < 7; i++)
     Console.Clear();
 }
 
-string[] nombres ={"Aarón Gabriel", "Carmona Tavárez", "Adrian Lorenzo Torres",
-"Alex Gabriel Kroumov Krumova", "Andriws Castillo Concepcin", "Angel Gabriel Morillo Rosario",
-"Delio Lorenzo Rodriguez Lopez", "Eddy Gabriel Custodio Hernandez", "Erick Octavio Rivera Arias",
-"Estarlin De La Cruz Acevedo", "Gredd Oslwald Rodriguez Polanco", "Heber Jr Encarnacion Mendez",
-"Jayner Alejandro Diaz Peralta", "Jhon Michael Sierra Rodríguez", "Jordys Valenzuela Perez",
-"Jorge Luis Muñis Coca", "Josué Ismael Blanco Sánchez", "Leyshi Yoelina Beras",
-"Luis David Bueno St Fleur", "Max Anderson Linares Jaquez", "Maxwell Ivan Alcántara Hernández",
-"Mayerlin Alcantara Valera", "Melvin Emmanuel Marte Cuevas", "Oliver Ernesto Tejeda Marte",
-"Paula Mariel Henrsez Cruz", "Ramon Emil Estrella Romero", "Rolando Ma?On Henr?Quez",
-"Sander Rafael Fernandez Tolentino", "Xavier Casilla", "Xavier Duverge Montero"};
+string[] nombres ={" Gabriel", "Carmona ", " Lorenzo Torres",
+" Gabriel Kroumov ", " Castillo Concepcin", " Gabriel Morillo ",
+" Lorenzo Rodriguez ", " Gabriel  Hernandez", " Octavio Arias",
+"De La Cruz Acevedo", " Oslwald  Polanco", "  Encarnacion Mendez",
+" Alejandro Peralta", " Michael Rodríguez", " Valenzuela Perez",
+" Luis Coca", " Ismael  Sánchez", " Yoelina ",
+" David Bueno ", " Anderson  Jaquez", " Ivan Hernández",
+" Alcantara Valera", " Emmanuel Cuevas", " Ernesto  Marte",
+" Mariel Cruz", " Emil  Romero", " Ma?On Henr?Quez",
+" Rafael Tolentino", "Xavier ", "Xavier Montero"};
 
 Random aleatorio = new Random();
 string[] desarollador = new string[nombres.Length];
